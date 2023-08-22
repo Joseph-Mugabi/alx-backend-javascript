@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const http = require("http");
-const list = require("./3-read_file_async.js");
+const list = require("./3-read_file_async");
 
 const port = 1245;
 
